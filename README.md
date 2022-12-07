@@ -3,7 +3,7 @@
 <!-- LEAVE A STAR, IF YOU LIKE IT ! -->
 
 <!-- Profile Views Counter -->
-![Profile views](https://gpvc.arturio.dev/ringgavertika?v=3)
+![Profile views](https://gpvc.arturio.dev/ringgarestu?v=3)
 
 <!-- Intro  -->
 <h3 align="center">
