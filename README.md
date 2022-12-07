@@ -3,12 +3,12 @@
 <!-- LEAVE A STAR, IF YOU LIKE IT ! -->
 
 <!-- Profile Views Counter -->
-![Profile views](https://github.com/ringgarestu)
+![Profile views](https://gpvc.arturio.dev/RinggaRestu?v=3)
 
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href=""> Ringga Vertika</a></b>
+                <b><a target="_blank" href="https://github.com/ringgarestu"> Ringga Vertika</a></b>
         </samp>
 </h3>
 <br>
