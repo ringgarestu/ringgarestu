@@ -37,30 +37,13 @@
         </a>
         <!-- JavaScript -->
         <a href="https://github.com/ringgavertika?tab=repositories" target="_blank"><img alt="JavaScript"
-                        src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
-        </a>
-        <!-- Python -->
-        <a href="https://github.com/ringgavertika?tab=repositories" target="_blank"><img alt="Python"
-                        src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-        </a>
-        <!-- C++ -->
-        <a href="https://github.com/ringgavertika?tab=repositories" target="_blank"><img alt="C++"
-                        src="https://img.shields.io/badge/-C++-9b3675?style=flat-square&logo=C%2B%2B&logoColor=white">
-        </a>
-        <!-- Arduino -->
-        <a href="https://github.com/ringgavertika?tab=repositories" target="_blank"><img alt="Arduino"
-                        src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
-        </a>
+                        src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">       
 </p>
 
 <!-- Details Section-->
 <details align="center">
     <summary> <samp>&#9776; More</samp></summary>
     <p align="center">
-        <br>
-        <!-- Activity Widget -->
-        <img alt="Shahriar Shafin's GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=ShahriarShafin&show_icons=true&theme=radical" />
         <br>
         <!-- Social Links -->
         <p>Find me on</p>
