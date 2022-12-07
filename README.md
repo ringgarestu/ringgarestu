@@ -36,7 +36,7 @@
                         src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
         </a>
         <!-- JavaScript -->
-        <a href="https://github.com/ringgavertika?tab=repositories" target="_blank"><img alt="JavaScript"
+        <a href="https://github.com/ringgarestu?tab=repositories" target="_blank"><img alt="JavaScript"
                         src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">       
 </p>
 
