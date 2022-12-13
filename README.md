@@ -18,7 +18,7 @@
         <samp>
                 「 I Code what I Design 」
                 <br>
-                「 I'm studying to be a frontend developerr from <b>Indonesia</b> 」
+                「 I'm studying to be a frontend developer from <b>Indonesia</b> 」
                 <br>
                 <br>
         </samp>
