@@ -48,7 +48,7 @@
                 src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
         </a>     
         <!-- Instagram -->
-        <a href="https://www.instagram.com/ngga.vk/" target="_blank"><img alt="Instagram"
+        <a href="https://www.instagram.com/n666a.vk/" target="_blank"><img alt="Instagram"
                 src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
         </a>
         <!-- Linkedin -->
