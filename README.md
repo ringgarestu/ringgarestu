@@ -2,8 +2,7 @@
 <!-- April 15, 2021 -->
 <!-- LEAVE A STAR, IF YOU LIKE IT ! -->
 
-<!-- Profile Views Counter -->
-![Profile views](https://gpvc.arturio.dev/RinggaRestu?v=3)
+<!-- Profile Views Counter --
 
 <!-- Intro  -->
 <h3 align="center">
