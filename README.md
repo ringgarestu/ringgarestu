@@ -33,6 +33,9 @@
         <!-- JavaScript -->
         <a href="https://github.com/ringgarestu?tab=repositories&q=&type=&language=javascript&sort=" target="_blank"><img alt="JavaScript"
                         src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">       
+        <!-- Dart -->
+        <a href="https://github.com/ringgarestu?tab=repositories&q=&type=&language=Dart&sort=" target="_blank"><img alt="Dart"
+                        src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=Dart&logoColor=white">   
 </p>
 
 <!-- Details Section-->
