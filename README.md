@@ -36,8 +36,10 @@
         <!-- Dart -->
         <a href="https://github.com/ringgarestu?tab=repositories&q=&type=&language=Dart&sort=" target="_blank"><img alt="Dart"
                         src="https://img.shields.io/badge/-Dart-4e8ed2?style=flat-square&logo=Dart&logoColor=white">   
-                <a href="https://github.com/ringgarestu?tab=repositories&q=&type=&language=PHP&sort=" target="_blank"><img alt="PHP"
-                        src="https://img.shields.io/badge/-PHP-6b7fd1?style=flat-square&logo=PHP&logoColor=white">   
+        <a href="https://github.com/ringgarestu?tab=repositories&q=&type=&language=PHP&sort=" target="_blank"><img alt="PHP"
+                        src="https://img.shields.io/badge/-PHP-6b7fd1?style=flat-square&logo=PHP&logoColor=white">
+        <a href="https://github.com/ringgarestu?tab=repositories&q=&type=&language=ReactJs&sort=" target="_blank"><img alt="ReactJs"
+                        src="https://img.shields.io/badge/-ReactJs-6b7fd1?style=flat-square&logo=ReactJs&logoColor=white"> 
 </p>
 
 <!-- Details Section-->
