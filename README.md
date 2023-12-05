@@ -38,8 +38,8 @@
                         src="https://img.shields.io/badge/-Dart-4e8ed2?style=flat-square&logo=Dart&logoColor=white">   
         <a href="https://github.com/ringgarestu?tab=repositories&q=&type=&language=PHP&sort=" target="_blank"><img alt="PHP"
                         src="https://img.shields.io/badge/-PHP-6b7fd1?style=flat-square&logo=PHP&logoColor=white">
-<!--          <a href="https://github.com/ringgarestu?tab=repositories&q=&type=&language=react&sort=" target="_blank"><img alt="React"
-                        src="https://img.shields.io/badge/React?style=flat-square&logo=React&logoColor=white">   -->
+ <a href="https://github.com/ringgarestu?tab=repositories&q=&type=&language=javascript&sort=" target="_blank"><img alt="JavaScript"
+                        src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">   
 </p>
 
 <!-- Details Section-->
