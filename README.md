@@ -33,11 +33,16 @@
         <!-- JavaScript -->
         <a href="https://github.com/ringgarestu?tab=repositories&q=&type=&language=javascript&sort=" target="_blank"><img alt="JavaScript"
                         src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">       
+        <!-- Flutter -->
+        <a href="https://github.com/ringgarestu?tab=repositories&q=&type=&language=Flutter&sort=" target="_blank"><img alt="Dart"
+                        src="https://img.shields.io/badge/-Flutter-4e8ed2?style=flat-square&logo=Flutter&logoColor=white">   
         <!-- Dart -->
         <a href="https://github.com/ringgarestu?tab=repositories&q=&type=&language=Dart&sort=" target="_blank"><img alt="Dart"
                         src="https://img.shields.io/badge/-Dart-4e8ed2?style=flat-square&logo=Dart&logoColor=white">   
+        <!-- PHP -->
         <a href="https://github.com/ringgarestu?tab=repositories&q=&type=&language=PHP&sort=" target="_blank"><img alt="PHP"
                         src="https://img.shields.io/badge/-PHP-6b7fd1?style=flat-square&logo=PHP&logoColor=white">
+        <!-- React -->
         <a href="https://github.com/ringgarestu?tab=repositories&q=&type=&language=react&sort=" target="_blank"><img alt="React"
                         src="https://img.shields.io/badge/-React-4287f5?style=flat-square&logo=React&logoColor=white">   
 </p>
