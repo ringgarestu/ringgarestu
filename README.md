@@ -47,7 +47,7 @@
                         src="https://img.shields.io/badge/-React-4287f5?style=flat-square&logo=React&logoColor=white">   
         <!-- Astro -->
         <a href="https://github.com/ringgarestu?tab=repositories&q=&type=&language=astro&sort=" target="_blank"><img alt="Astro"
-                        src="https://img.shields.io/badge/-Astro-4287f5?style=flat-square&logo=Astro&logoColor=white">   
+                        src="https://img.shields.io/badge/-Astro-ffffff?style=flat-square&logo=Astro&logoColor=white">   
 </p>
 
 <!-- Details Section-->
